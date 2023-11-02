@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meal Recipe</string>
+    <string name="categories">Categories</string>
+    <string name="recommended_meals_today_title">Recommended meals today</string>
+    <string name="search">Search</string>
+    <string name="plan_your_meal_here_title">Plan your meal here</string>
+    <string name="hi_title">Hi !</string>
+    <string name="no_menu_found">No Menu found</string>
+</resources>
